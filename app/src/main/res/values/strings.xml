@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">QuizAppKz</string>
+    <string name="ImageAstana">Astana</string>
+    <string name="head_name">What do you know about Kazakstan?</string>
+    <string name="Q1">Q1. Kazakhstan is … largest country in the world.</string>
+    <string name="Q1_1False">15th</string>
+    <string name="Q1_2True">9th</string>
+    <string name="Q1_3False">20th</string>
+
+    <string name="Q2">Q2. What fruit is believed to be originated from Kazakhstan?</string>
+    <string name="Q2_1true">apple</string>
+    <string name="Q2_2false">banana</string>
+    <string name="Q2_3false">mango</string>
+
+    <string name="Q3">Q3. When did the Republic of Kazakhstan become independent? </string>
+    <string name="Q3_1False">1954</string>
+    <string name="Q3_2False">2001</string>
+    <string name="Q3_3True">1991</string>
+
+    <string name="Q4">Q4. The currency of Kazakhstan is called … (write with lower case letters) </string>
+    <string name="enterAnswer">enter your answer</string>
+
+    <string name="Q5_C1">Almaty</string>
+    <string name="Q5_I1">Ankara</string>
+    <string name="Q5_I2">Tashkent</string>
+    <string name="Q5_I3">Astana</string>
+    <string name="Q5_C2">UlaanBaatar</string>
+
+    <string name="Q5">Q5. Which of these cities are located in Kazakshtan? </string>
+    <string name="submitButton">Check</string>
+</resources>
